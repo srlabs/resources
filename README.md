@@ -1,6 +1,7 @@
 # resources
 ## antistalking-guidelines
-antistalking-guidelines-de.pdf: 
+- antistalking-guidelines-de.pdf
+
 Dieses PDF enthält das Handout unseres Workshops zum Thema Cyberstalking und digitaler Selbstverteidigung, das ursprünglich für das Frieda Frauenzentrum erstellt wurde. 
 Das Ziel dieses Workshops ist es, Opfer von Cyberstalking mit grundlegenden Maßnahmen zu unterstützen, um ihr digitales Leben vor Stalkern zu schützen.
 
